@@ -131,6 +131,9 @@ header ul li {
 .about .conteiner {
   padding-top: 0;
 }
+.about {
+  padding-top: 0;
+}
 .about ul {
   display: flex;
   gap: 30px;
