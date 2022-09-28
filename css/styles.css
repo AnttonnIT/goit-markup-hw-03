@@ -67,10 +67,8 @@ header ul li {
 }
 .cap {
   background-color: #2f303a;
-  display: flex;
-  align-items: center;
-  flex-flow: column;
   padding: 200px 200px;
+  text-align: center;
 }
 .cap h1 {
   font-weight: 900;
